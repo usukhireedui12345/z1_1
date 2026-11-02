@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://img.magnific.com/free-vector/gods-hand-vector-sticker-creation-adam-famous-painting-remixed-from-artworks-by-michelangelo-buonarroti_53876-125649.jpg?semt=ais_hybrid&w=740&q=80" width="100%" height="250" style="object-fit: cover;" alt="Banner" />
+<!-- ЗАСАССАН БАННЕР: Зураг сунахгүй, цэвэрхэн харагдах хувилбар -->
+<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?width=1000&height=250&fit=cover" width="100%" height="250" style="object-fit: contain; background: #0c0d10;" alt="Header Banner" />
 
 # Hi 👋, I'm Usukh-Ireedui
 
@@ -49,4 +50,16 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=usukhireedui12345&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=usukhireedui12345&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=usukhireedui12345&theme=react-dark&hide_border=true" alt="Activity Graph" />
+
+</div>
